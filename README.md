@@ -52,7 +52,7 @@ $ npm run test:cov
 ```
 
 ## Diagram
-![notifications-service drawio](https://user-images.githubusercontent.com/23001482/208126711-d8066e95-be2b-4137-a9c1-1c79e174fbec.png)
+![notifications-service drawio](https://user-images.githubusercontent.com/23001482/208149692-a535d0c2-e384-46e1-90b6-394817822392.png)
 
 ## Thanks
 Special thanks to @diego3g for teaching these principles at the Ignite Lab.
